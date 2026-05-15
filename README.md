@@ -1,7 +1,7 @@
 <div align="center">
   
  <div align="center" style="border-radius:100%;overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/31744474" width="150" alt="avatar"/>
+    <img src="./Gitimage.png" width="150" alt="avatar"/>
   </div>
   <br/><br/>
   
@@ -21,7 +21,7 @@
 
   <br/>
   <!-- Tech stack icons -->
- <h2 align="left"><img src="./Gitimage.png" width = 32px>My Favorite Tools And Technologies ⚙️</h2>
+<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️</h2>
  
 <br/>
 
